@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film ku 339</string>
+    <string name="app_popular">Populer</string>
+    <string name="app_top_rated">Rating Tertinggi</string>
+    <string name="app_setting">Pengaturan</string>
+</resources>
